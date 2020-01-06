@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  background: -webkit-linear-gradient(90deg, #2bc0e4 10%, #eaecc6 90%);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-attachment: fixed;
+}
+
+button {
+  margin: 8px 0;
+}
+
+h1 {
+  font-family: cursive;
+}
